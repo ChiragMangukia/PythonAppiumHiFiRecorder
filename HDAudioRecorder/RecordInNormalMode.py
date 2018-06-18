@@ -16,8 +16,6 @@ class Record:
         driver.find_element_by_id('com.lge.hifirecorder:id/recordButtonLayout').click()
         driver.lock(5)
         time.sleep(5)
-        #driver.lock()
-        #time.sleep(10)
         driver.find_element_by_id('com.lge.hifirecorder:id/stopButtonLayout').click()
 
 
