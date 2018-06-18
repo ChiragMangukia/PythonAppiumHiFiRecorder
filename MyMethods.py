@@ -14,6 +14,8 @@ def invoke_app(lan, locale):
         #"appPackage": "com.android.settings",
         #"appActivity": "com.android.settings.Settings",
         "platformName": "Android",
-        "autoGrantPermissions": "true"
+        "autoGrantPermissions": "true",
+        "unlockType": "pin",
+        "unlockKey": "0000"
     }
     return webdriver.Remote('http://127.0.0.1:4723/wd/hub', desired_caps)
