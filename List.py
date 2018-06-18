@@ -17,10 +17,10 @@ if check_exist_by_id('com.lge.eula:id/btn_agree'):
 
 time.sleep(2)
 
-driver.find_element_by_id('com.android.packageinstaller:id/permission_allow_button').click()
-time.sleep(1)
-driver.find_element_by_id('com.android.packageinstaller:id/permission_allow_button').click()
-time.sleep(1)
+#driver.find_element_by_id('com.android.packageinstaller:id/permission_allow_button').click()
+#time.sleep(1)
+#driver.find_element_by_id('com.android.packageinstaller:id/permission_allow_button').click()
+#time.sleep(1)
 
 if check_exist_by_id('com.lge.hifirecorder:id/tip_help_next_button'):
     driver.find_element_by_id('com.lge.hifirecorder:id/tip_help_next_button').click()
@@ -59,6 +59,7 @@ driver.find_element_by_xpath("//android.widget.FrameLayout/android.view.ViewGrou
 def record_voice(duration):
     driver.find_element_by_id('com.lge.hifirecorder:id/recordButtonLayout').click()
     time.sleep(int(duration))
+    driver.find_element_by_id('com.lge.hifirecorder:id/stopButtonLayout').click()
 
 
 record_voice(5)

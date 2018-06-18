@@ -20,7 +20,8 @@ driver.find_element_by_xpath('//android.widget.FrameLayout/android.view.ViewGrou
                              'android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/'
                              'android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/'
                              'android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[2]')
-driver.find_element_by_android_uiautomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\"HD Audio Recorder\"));").click()
+time.sleep(3)
+driver.find_element_by_android_uiautomator("new UiScrollable(new UiSelector()).scrollIntoView(text(\"HD Audio Recorder\"))").click()
 time.sleep(1)
 driver.find_element_by_xpath('//android.widget.TextView[@text="Permissions"]').click()
 time.sleep(2)
@@ -28,6 +29,4 @@ status = driver.find_element_by_id('android:id/switch_widget').get_attribute("ch
 if status == "false":
     driver.find_element_by_id('android:id/switch_widget').click()
 
-#driver.find_element_by_xpath('//android.widget.TextView[@text="Storage"]').click()
-#driver.find_element_by_id('com.android.settings:id/left_button').click()
-#driver.find_element_by_xpath('//android.widget.Button[@text="OK"]').click()
+driver.press_keycode(4)
