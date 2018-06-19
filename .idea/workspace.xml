@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ccef20f-daec-4061-a946-52275febeb4f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/HDAudioRecorder/Settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HDAudioRecorder/Settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HDAudioRecorder/Settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyMethods.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="MyMethods.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyMethods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="240">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -29,7 +30,7 @@
       <file leaf-file-name="RecordInNormalMode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HDAudioRecorder/RecordInNormalMode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="272">
               <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
@@ -41,14 +42,11 @@
       <file leaf-file-name="ListOperations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HDAudioRecorder/ListOperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+            <state relative-caret-position="-85">
+              <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
               <folding>
                 <element signature="e#0#60#0" expanded="true" />
-                <element signature="e#190#276#0" />
-                <element signature="e#325#1813#0" />
                 <element signature="e#1883#3153#0" />
-                <element signature="e#3186#4195#0" />
               </folding>
             </state>
           </provider>
@@ -57,8 +55,8 @@
       <file leaf-file-name="Settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="374">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -69,8 +67,8 @@
       <file leaf-file-name="Custome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Custome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="170">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -103,11 +101,11 @@
         <option value="$PROJECT_DIR$/HDAudioRecorder/Methods.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/RecordInConcertMode.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/RecordInCustomMode.py" />
-        <option value="$PROJECT_DIR$/MyMethods.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/RecordInNormalMode.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/Custome.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/ListOperations.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/Test.py" />
+        <option value="$PROJECT_DIR$/MyMethods.py" />
         <option value="$PROJECT_DIR$/HDAudioRecorder/Settings.py" />
       </list>
     </option>
@@ -416,12 +414,12 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -433,6 +431,54 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/RecordInNormalMode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/ListOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+            <element signature="e#1883#3153#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Custome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyMethods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -454,9 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,43 +541,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Methods.py" />
     <entry file="file://$PROJECT_DIR$/List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="58" selection-start-line="58" selection-end-line="61" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/RecordInCustomMode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/RecordInCustomMode.py" />
     <entry file="file://$PROJECT_DIR$/HDAudioRecorder/RecordInConcertMode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="17" lean-forward="true" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyMethods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -542,15 +561,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HDAudioRecorder/RecordInNormalMode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="272">
           <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
@@ -558,17 +574,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="61" lean-forward="true" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Test.py" />
     <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Custome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="170">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -577,22 +587,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HDAudioRecorder/ListOperations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+        <state relative-caret-position="-85">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
           <folding>
             <element signature="e#0#60#0" expanded="true" />
-            <element signature="e#190#276#0" />
-            <element signature="e#325#1813#0" />
             <element signature="e#1883#3153#0" />
-            <element signature="e#3186#4195#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="374">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
