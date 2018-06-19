@@ -29,4 +29,4 @@ time.sleep(2)
 driver.find_element_by_id('com.lge.hifirecorder:id/stopButtonLayout').click()
 driver.orientation = "PORTRAIT"
 time.sleep(2)
-driver.save_screenshot(os.getcwd() + '/screenshot.png')
+driver.save_screenshot(os.getcwd() + '/myscreenshot.png')
