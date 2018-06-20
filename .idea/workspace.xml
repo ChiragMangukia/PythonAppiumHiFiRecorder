@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ccef20f-daec-4061-a946-52275febeb4f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Settings/clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Settings/cleanup" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HDAudioRecorder/cleanup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HDAudioRecorder/Settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -59,6 +60,24 @@
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Clean" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Clean">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cleanup" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HDAudioRecorder/cleanup">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -108,10 +127,12 @@
         <option value="$PROJECT_DIR$/HDAudioRecorder/Settings.py" />
         <option value="$PROJECT_DIR$/Settings/clean" />
         <option value="$PROJECT_DIR$/Settings/cleanup" />
+        <option value="$PROJECT_DIR$/Clean" />
+        <option value="$PROJECT_DIR$/HDAudioRecorder/cleanup" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
@@ -132,6 +153,11 @@
             <path>
               <item name="PythonAppiumHiFiRecorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonAppiumHiFiRecorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAppiumHiFiRecorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAppiumHiFiRecorder" type="462c0819:PsiDirectoryNode" />
+              <item name="HDAudioRecorder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -405,6 +431,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16985294" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -727,6 +754,20 @@
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clean">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HDAudioRecorder/cleanup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
