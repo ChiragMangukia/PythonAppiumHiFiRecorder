@@ -4,6 +4,7 @@ import time
 
 driver = MyMethods.invoke_app("en", "uk")
 
+
 class ListOperations:
 
     def open_list(self):
@@ -64,6 +65,7 @@ class ListOperations:
         driver.find_element_by_xpath("//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/"
                                      "android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/"
                                      "android.widget.Button").click()
+
 
 temp = ListOperations()
 temp.open_list()
