@@ -19,6 +19,6 @@ class Record:
         driver.find_element_by_id('com.lge.hifirecorder:id/stopButtonLayout').click()
 
 
-temp=Record()
+temp = Record()
 temp.record_voice()
 
