@@ -1,0 +1,23 @@
+From 10ed02ebc39bd9e7d32310ffbbeebb77609a6086 Mon Sep 17 00:00:00 2001
+From: Chirag Mangukia <chirag.mangukia@gmail.com>
+Date: Sat, 31 Oct 2020 19:09:48 +0530
+Subject: [PATCH] print text 2 times
+
+---
+ GetText.py | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/GetText.py b/GetText.py
+index 175ce94..bed0d87 100644
+--- a/GetText.py
++++ b/GetText.py
+@@ -9,4 +9,5 @@ driver.find_element_by_id('com.android.packageinstaller:id/permission_allow_butt
+ time.sleep(1)
+ myText = driver.find_element_by_xpath("//android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/"
+                              "android.view.ViewGroup/android.widget.TextView").text
++print(myText)
+ print(myText)
+\ No newline at end of file
+-- 
+2.26.2.windows.1
+
