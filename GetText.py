@@ -10,3 +10,4 @@ time.sleep(1)
 myText = driver.find_element_by_xpath("//android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/"
                              "android.view.ViewGroup/android.widget.TextView").text
 print(myText)
+print(myText)
